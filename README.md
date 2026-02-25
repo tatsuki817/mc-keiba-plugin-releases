@@ -1,5 +1,8 @@
 Japanese / English
 
+spigotMC: https://www.spigotmc.org/resources/horseracingplugin-alpha-full-scale-racing-betting.132914/
+
+
 
 # HorseRacingPlugin (Alpha)
 
